@@ -1,0 +1,6 @@
+$main-width: 1280px;
+
+.main-component {
+  display: flex;
+  flex: 0 0 $main-width;
+}
