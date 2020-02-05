@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Carousel component. It supports different layouts and items in slides, and it's also easy to use. 
+
+## Usage
+* create a container element, and put `Carousel` component inside it. The `Carousel` component will fit inside the parent component. So, it will get the `width` and `height` from the parent.
+* `Carousel` component can have as many slides as you want. To add slides to `Carousel`, simply wrap the slide in a `CarouselSlide` component, and add them to `Carousel` component as child.
+
+See `src/containers/main/Main.js` as an example.
+
+## About the code
+This is not a complete project. It's just and example of a `Carousel` component, so you will see many components without any logic. Accordingly, there wont be any logical test for them. They are only checked to `matchSnapshot` to prevent some unwanted changes.
+
+You can find the `Carousel` component in `src/components/carousel` folder.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The rest of the Readme comes from CRA.
 
 ## Available Scripts
 

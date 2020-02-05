@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Carousel matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="carousel-component"
+    data-testid="carousel"
+  >
+    <div
+      class="carousel-slide-component"
+      style="margin-left: -000%; transition: margin-left 500ms ease-in-out;"
+    >
+      slide1
+    </div>
+    <div
+      class="carousel-slide-component"
+      style="transition: margin-left 500ms ease-in-out;"
+    >
+      slide2
+    </div>
+    <div
+      class="carousel-slide-component"
+      style="transition: margin-left 500ms ease-in-out;"
+    >
+      slide3
+    </div>
+    <div
+      class="navigation-buttons"
+      data-testid="navigation-buttons"
+    >
+      <div
+        class="navigation-button active"
+      />
+      <div
+        class="navigation-button"
+      />
+      <div
+        class="navigation-button"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

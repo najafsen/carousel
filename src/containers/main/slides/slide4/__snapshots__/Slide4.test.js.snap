@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slide4 matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="slide-content"
+  >
+    <div
+      class="slide4"
+    >
+      <h1>
+        Or, for example, 
+        <span>
+          Tivoli!
+        </span>
+      </h1>
+    </div>
+  </div>
+</DocumentFragment>
+`;

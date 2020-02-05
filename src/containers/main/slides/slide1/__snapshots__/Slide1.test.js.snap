@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slide1 matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="slide-content"
+  >
+    <div
+      class="slide1"
+    >
+      <img
+        alt="Comma Green"
+        src="comma-green.svg"
+      />
+      <h1>
+        This piece of software is 
+        <i>
+          the shit
+        </i>
+        ,
+        <br />
+        I’ve never tried anything like it.
+      </h1>
+      <img
+        alt="face"
+        class="bottom-image"
+        src="face.svg"
+      />
+      <h4>
+        Mr. Face
+      </h4>
+      <p>
+        Karma Guru @ Face Co™
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

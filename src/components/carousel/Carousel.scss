@@ -1,0 +1,34 @@
+$navigation-button-color: #6e7986;
+$navigation-button-color-active: #ffffff;
+
+.carousel-component {
+  position: relative;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+
+  .carousel-slide-component {
+    display: flex;
+    flex: 1 0 100%;
+  }
+
+  .navigation-buttons {
+    position: absolute;
+    display: flex;
+    bottom: 10%;
+    left: 137px;
+    right: 137px;
+    height: 4px;
+
+    .navigation-button {
+      flex: 1 1 100%;
+      background-color: $navigation-button-color;
+      margin: 0 2px;
+      cursor: pointer;
+
+      &.active {
+        background-color: $navigation-button-color-active;
+      }
+    }
+  }
+}

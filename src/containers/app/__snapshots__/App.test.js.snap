@@ -7,7 +7,162 @@ exports[`matches snapshot 1`] = `
   >
     <div
       class="main-component"
-    />
+    >
+      <div
+        class="header-container"
+      />
+      <div
+        class="carousel-container"
+      >
+        <div
+          class="carousel-component"
+          data-testid="carousel"
+        >
+          <div
+            class="carousel-slide-component"
+            style="margin-left: -000%; transition: margin-left 500ms ease-in-out;"
+          >
+            <div
+              class="slide-content"
+            >
+              <div
+                class="slide1"
+              >
+                <img
+                  alt="Comma Green"
+                  src="comma-green.svg"
+                />
+                <h1>
+                  This piece of software is 
+                  <i>
+                    the shit
+                  </i>
+                  ,
+                  <br />
+                  I’ve never tried anything like it.
+                </h1>
+                <img
+                  alt="face"
+                  class="bottom-image"
+                  src="face.svg"
+                />
+                <h4>
+                  Mr. Face
+                </h4>
+                <p>
+                  Karma Guru @ Face Co™
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="carousel-slide-component"
+            style="transition: margin-left 500ms ease-in-out;"
+          >
+            <div
+              class="slide-content"
+            >
+              <div
+                class="slide2"
+              >
+                <img
+                  alt="Comma Red"
+                  src="comma-red.svg"
+                />
+                <h1>
+                  An experience that makes us feel like we’re covered in maple syrup –
+                  <i>
+                     It’s a good thing
+                  </i>
+                </h1>
+                <img
+                  alt="Cake"
+                  class="bottom-image"
+                  src="cake.svg"
+                />
+                <h4>
+                  The whole team @
+                </h4>
+                <h4>
+                  The Pancake Collective™
+                </h4>
+              </div>
+            </div>
+          </div>
+          <div
+            class="carousel-slide-component"
+            style="transition: margin-left 500ms ease-in-out;"
+          >
+            <div
+              class="slide-content"
+            >
+              <div
+                class="slide3"
+              >
+                <h1>
+                  These slides can contain anything, with any layout! Like previous slides.
+                </h1>
+              </div>
+            </div>
+          </div>
+          <div
+            class="carousel-slide-component"
+            style="transition: margin-left 500ms ease-in-out;"
+          >
+            <div
+              class="slide-content"
+            >
+              <div
+                class="slide4"
+              >
+                <h1>
+                  Or, for example, 
+                  <span>
+                    Tivoli!
+                  </span>
+                </h1>
+              </div>
+            </div>
+          </div>
+          <div
+            class="carousel-slide-component"
+            style="transition: margin-left 500ms ease-in-out;"
+          >
+            <div
+              class="slide-content"
+            >
+              <div
+                class="slide5"
+              >
+                <h1>
+                  Or the view from my window in the morning! :)
+                </h1>
+              </div>
+            </div>
+          </div>
+          <div
+            class="navigation-buttons"
+            data-testid="navigation-buttons"
+          >
+            <div
+              class="navigation-button active"
+            />
+            <div
+              class="navigation-button"
+            />
+            <div
+              class="navigation-button"
+            />
+            <div
+              class="navigation-button"
+            />
+            <div
+              class="navigation-button"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </DocumentFragment>
 `;

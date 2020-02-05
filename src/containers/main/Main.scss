@@ -1,6 +1,27 @@
 $main-width: 1280px;
+$header-height: 200px;
+$carousel-height: 500px;
 
 .main-component {
   display: flex;
   flex: 0 0 $main-width;
+  flex-direction: column;
+
+  .header-container {
+    flex: 0 0 $header-height;
+  }
+
+  .carousel-container {
+    display: flex;
+    flex: 0 0 $carousel-height;
+    max-height: $carousel-height;
+    max-width: $main-width;
+
+    .slide-content {
+      display: flex;
+      flex: 1;
+      background-color: black;
+      color: white;
+    }
+  }
 }

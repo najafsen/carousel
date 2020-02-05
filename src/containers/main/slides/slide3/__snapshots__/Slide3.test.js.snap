@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slide3 matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="slide-content"
+  >
+    <div
+      class="slide3"
+    >
+      <h1>
+        These slides can contain anything, with any layout! Like previous slides.
+      </h1>
+    </div>
+  </div>
+</DocumentFragment>
+`;

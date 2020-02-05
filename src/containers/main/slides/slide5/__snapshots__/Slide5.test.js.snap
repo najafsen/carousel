@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slide5 matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="slide-content"
+  >
+    <div
+      class="slide5"
+    >
+      <h1>
+        Or the view from my window in the morning! :)
+      </h1>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slide2 matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="slide-content"
+  >
+    <div
+      class="slide2"
+    >
+      <img
+        alt="Comma Red"
+        src="comma-red.svg"
+      />
+      <h1>
+        An experience that makes us feel like we’re covered in maple syrup –
+        <i>
+           It’s a good thing
+        </i>
+      </h1>
+      <img
+        alt="Cake"
+        class="bottom-image"
+        src="cake.svg"
+      />
+      <h4>
+        The whole team @
+      </h4>
+      <h4>
+        The Pancake Collective™
+      </h4>
+    </div>
+  </div>
+</DocumentFragment>
+`;
