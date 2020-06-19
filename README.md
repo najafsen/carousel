@@ -1,3 +1,8 @@
+Commitlint
+another commitlint
+yet another commit lint
+yet yet another commitlint
+
 This is a simple Carousel component. It supports different layouts and items in slides, and it's also easy to use. 
 
 ## Usage
